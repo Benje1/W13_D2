@@ -40,6 +40,7 @@ public class Customer {
     }
 
     public Car sellCar() {
+//        needs work
         return this.ownedCars.remove(0);
     }
 }

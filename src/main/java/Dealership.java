@@ -43,6 +43,7 @@ public class Dealership {
         addCar(car);
     }
 
+//    needs work
     public void buyCar(Customer customer){
         payForCar(customer.);
         addCar(customer.sellCar());
